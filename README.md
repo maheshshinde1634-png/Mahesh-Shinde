@@ -1,13 +1,72 @@
-Hi, I'm Mahesh Shinde 👋
+# Hi there, I'm Mahesh Shinde 👋
 
-I have completed my BCA and passionate about building practical and clean web applications. Currently focused on learning and improving my skills in Web Development and Python.
+🎓 BCA Graduate | CGPA: 7.67
 
-💻 Skills:
-- HTML, CSS (Responsive Design)
-- Basic JavaScript
-- Python (beginner to intermediate)
-- Manual Tester
-- Git & GitHub
+💻 Aspiring Python Full Stack Developer | Python Enthusiast
+
+📍 Pune, Maharashtra, India
+
+---
+
+## 👨‍💻 About Me
+
+I recently completed my Bachelor of Computer Applications (BCA) with a CGPA of **7.68**. I enjoy solving programming problems, building practical projects, and continuously improving my technical skills.
+
+I am currently enrolled in a **Python Full Stack Development** program where I am learning backend and frontend development. Alongside that, I am strengthening my knowledge of **Data Analytics** and **SQL**.
+
+---
+
+## 🚀 Skills
+
+### Programming
+- Python
+- C (Basics)
+- JavaScript (Basics)
+
+### Web Development
+- HTML5
+- CSS3
+- Responsive Design
+
+### Databases
+- MySQL (Learning)
+
+### Tools
+- Git
+- GitHub
+- Google Colab
+- VS Code
+
+### Software Testing
+- Manual Testing
+
+---
+
+## 📚 Currently Learning
+
+- Python Full Stack Development
+- Django
+- Flask
+- SQL
+- Data Analytics
+- Data Structures & Algorithms
+
+---
+
+## 📂 Featured Projects
+
+- 🐍 Core Python Practice (35+ Python Programs)
+- 🏦 Banking Management System
+- 💼 DevSync SaaS
+- 📖 Employee Management System
+
+---
+
+## 🎯 Career Objective
+
+Seeking opportunities as a **Python Developer**, **Software Developer**, **Full Stack Developer**, or **Data Analyst Intern**, where I can apply my skills, contribute to real-world projects, and continue learning.
+
+
 
 🚀 What I'm doing:
 - Building small projects to strengthen fundamentals
@@ -15,8 +74,6 @@ I have completed my BCA and passionate about building practical and clean web ap
 - Exploring real-world problem solving through code
 - Have completed Manual testing 
 
-🎯 Goal:
-To start my career as a Web Developer and grow into a full-stack developer by working on real-world projects.
 
 📌 Open to:
 - Internships
