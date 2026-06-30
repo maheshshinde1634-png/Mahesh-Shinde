@@ -1,17 +1,19 @@
 Hi, I'm Mahesh Shinde 👋
 
-I'm a BCA final-year student passionate about building practical and clean web applications. Currently focused on learning and improving my skills in Web Development and Python.
+I have completed my BCA and passionate about building practical and clean web applications. Currently focused on learning and improving my skills in Web Development and Python.
 
 💻 Skills:
 - HTML, CSS (Responsive Design)
 - Basic JavaScript
 - Python (beginner to intermediate)
+- Manual Tester
 - Git & GitHub
 
 🚀 What I'm doing:
 - Building small projects to strengthen fundamentals
 - Learning modern web development step by step
 - Exploring real-world problem solving through code
+- Have completed Manual testing 
 
 🎯 Goal:
 To start my career as a Web Developer and grow into a full-stack developer by working on real-world projects.
@@ -20,6 +22,7 @@ To start my career as a Web Developer and grow into a full-stack developer by wo
 - Internships
 - Entry-level opportunities
 - Collaboration on beginner-friendly projects
+- Manual Tester role 
 
 - 
 ## 🌐 Connect with me
